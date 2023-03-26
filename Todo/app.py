@@ -1,5 +1,3 @@
-import json
-
 import quart
 import quart_cors
 from quart import request
