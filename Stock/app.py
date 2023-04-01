@@ -23,11 +23,8 @@ async def display_history():
     
     return data
 
-
-
 def main():
     app.run(debug=True, host="localhost", port=5002)
-
 
 if __name__ == "__main__":
     main()
